@@ -45,7 +45,7 @@ Replicating the Analysis
 Step 1: Clone the Repository
 bash
 Copy code
-git clone [https://github.com/username/public-transport-analysis.git](https://github.com/arigelathrinesh/NM_PUBLICTRANSPORTANALYSIS_PHASE3)
+git clone (https://github.com/arigelathrinesh/NM_PUBLICTRANSPORTANALYSIS_PHASE3)
 cd public-transport-analysis
 Step 2: Download the Dataset
 Download the dataset from [[Dataset Source Name/Link](https://www.kaggle.com/datasets/rednivrug/unisys?select=20140711.CSV)] and place it in the data/ directory.
